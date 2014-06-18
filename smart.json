@@ -1,7 +1,7 @@
 {
   "name": "handsontable-latest",
   "description": "Handsontable 0.10.5 for meteor",
-  "homepage": "",
+  "homepage": "https://github.com/sujith3g/meteor-handsontable.git",
   "author": "Sujith G",
   "version": "0.0.1",
   "git": "https://github.com/sujith3g/meteor-handsontable.git",
