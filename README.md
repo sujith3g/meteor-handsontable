@@ -9,7 +9,7 @@ It supports [these](https://github.com/warpech/jquery-handsontable/wiki/Keyboard
 With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh
-$ mrt add handsontable-latest
+$ meteor add sujith3g:handsontable-latest
 ```
 
 For documentation and demo: [See here](http://handsontable.com/demo/understanding_reference.html).
