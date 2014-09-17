@@ -6,7 +6,6 @@ handsontable-latest
 It supports [these](https://github.com/warpech/jquery-handsontable/wiki/Keyboard-Shortcuts) keyboard shortcuts.
 
 ###Installation
-With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh
 $ meteor add sujith3g:handsontable-latest
